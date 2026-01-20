@@ -98,4 +98,3 @@ if st.button("ANALISIS SEKARANG"):
 
 # --- FOOTER ---
 st.markdown("---")
-st.caption("Dibuat oleh: Eno Putri Julianis | UAS Deep Learning")
